@@ -60,7 +60,7 @@ The Power BI dashboard provides an interactive view of customer shopping behavio
 
 ## Author
 
-**Nagashree Nagendra Naik**
+**Rohit Ranganath Rathod**
 
 Computer Science and Engineering Graduate
 
